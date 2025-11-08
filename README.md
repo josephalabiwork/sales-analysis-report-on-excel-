@@ -1,3 +1,5 @@
+<img width="2169" height="927" alt="image" src="https://github.com/user-attachments/assets/d134182d-00b9-477d-981f-911fd935531f" />
+
 # Sales-Analysis-Report-on-Excel-
 Sales analysis using excel.. created pivot tables for analysis and an interactive dashboard for better data driven decisions.
 ## Introduction

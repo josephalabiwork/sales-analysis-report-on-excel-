@@ -55,8 +55,10 @@ The main goals of this analysis are to:
 ### 🏆 Product Insights
 * Highest Unit Price Product: 🥇 Rice- ₦2,992 per unit
 *	Most Profitable Product: 🥖 Bread- ₦1,233,069 total profit
-*	High-Margin Categories: Beverages and Grains consistently produced the best profit margins
+*	High-Margin Categories: Dairy and Protein consistently produced the best profit margins
 *	Most Profitable Category: Dairy- ₦1,404,872
+*	Top Products are bread and soap
+*	Sales by Gender: Men vs Women. Men slightly edge out women in terms of sales
 
 ### 👩‍💼 Salesperson Insights
 *	Top Salesperson: 🧍 John — ₦5,214,581 total sales
@@ -68,6 +70,13 @@ The main goals of this analysis are to:
 * Ibadan and Abuja followed closely behind.
 * Port Harcourt demonstrates high engagement and customer retention potential.
 * Lagos is the region with most sales with sales amounting to ₦7,682,927
+
+
+### 👥 Customer Demographic
+* Gender Count
+* Male 415
+* Female 385
+* Sales by Gender: Men vs Women. Men slightly edge out women in terms of sales
 
 
 

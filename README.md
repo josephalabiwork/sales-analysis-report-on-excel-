@@ -1,5 +1,5 @@
-# sales-analysis-report-on-excel-
-sales analysis using excel.. created pivot tables for analysis and an interactive dashboard for better data driven decisions.
+# Sales-Analysis-Report-on-Excel-
+Sales analysis using excel.. created pivot tables for analysis and an interactive dashboard for better data driven decisions.
 ## Introduction
 
 * This project provides a data driven analysis of sales performance using Microsoft Excel.

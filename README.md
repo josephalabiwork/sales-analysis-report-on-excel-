@@ -32,11 +32,11 @@ sales analysis using excel.. created pivot tables for analysis and an interactiv
 * Gender & Customer Name
 
 These data points were used to answer key business questions such as:
-	*	What is the total sales for each transaction?
-	*	Which product had the highest unit price?
-	*	Who is the top salesperson?
-	*	Which region recorded the most transactions?
-	*	How many male vs. female customers were recorded?
+	* What is the total sales for each transaction?
+	* Which product had the highest unit price?
+	* Who is the top salesperson?
+	* Which region recorded the most transactions?
+	* How many male vs. female customers were recorded?
 
 
 

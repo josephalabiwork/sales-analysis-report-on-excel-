@@ -21,15 +21,15 @@ sales analysis using excel.. created pivot tables for analysis and an interactiv
 * Demonstrated how Excel supports effective business intelligence and data-driven decision making
 ### Data Understanding
 *The dataset contains 800 sales transactions and the following key columns:
-*Date
-*Region
-*Salesperson
-*Product & Category
-*Quantity Sold
-*Unit Price (NGN)
-*Cost Price (NGN)
-*Computed metrics representing revenue and profit
-*Gender & Customer Name
+* Date
+* Region
+* Salesperson
+* Product & Category
+* Quantity Sold
+* Unit Price (NGN)
+* Cost Price (NGN)
+* Computed metrics representing revenue and profit
+* Gender & Customer Name
 
 These data points were used to answer key business questions such as:
 	•	What is the total sales for each transaction?

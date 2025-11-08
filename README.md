@@ -37,7 +37,8 @@ These data points were used to answer key business questions such as:
 * Who is the top salesperson?
 * Which region recorded the most transactions?
 * How many male vs. female customers were recorded?
-  🎯 Business Goal
+
+### 🎯 Business Goal
 The main goals of this analysis are to:
 * Evaluate overall sales performance.
 * Identify top-performing regions, products, and salespersons.

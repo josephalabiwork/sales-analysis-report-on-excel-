@@ -52,6 +52,7 @@ The main goals of this analysis are to:
 *	Average Sales per Transaction: ₦45,018
 *	Total Profit: ₦10,671,625
 *	Total Cost: ₦25,342,450
+*	Sales Trend in Q2: The highest sales was recorded in june with a figure of ₦12,683,091
   
 ### 🏆 Product Insights
 * Highest Unit Price Product: 🥇 Rice- ₦2,992 per unit
@@ -62,7 +63,7 @@ The main goals of this analysis are to:
 *	Sales by Gender: Men vs Women. Men slightly edge out women in terms of sales
 
 ### 👩‍💼 Salesperson Insights
-*	Top Salesperson: 🧍 John — ₦5,214,581 total sales
+*	Top Salesperson: 🧍 John- ₦5,214,581 total sales
 *	Other strong performers: Bola and Chioma
 *	Indicates strong team competitiveness and sales consistency.
 
@@ -79,7 +80,13 @@ The main goals of this analysis are to:
 * Female 385
 * Sales by Gender: Men vs Women. Men slightly edge out women in terms of sales
 
-
+### Recommendations
+* Focus Marketing in High-Sales Regions: Lagos and Port Harcourt show strong revenue potential; targeted promotions could further increase sales.
+* Promote High-Margin Categories: Dairy and Protein have consistently strong margins; consider expanding these product lines or bundling them.
+* Strengthen Top Salespersons: Recognize top performers like John, Bola, and Chioma with incentives or mentoring programs to maintain competitiveness.
+* Monitor Underperforming Areas: Regions with lower transactions or sales should be analyzed for barriers (e.g., logistics, awareness, pricing).
+* Gender-Focused Strategies: While men slightly outperformed women, there may be opportunities to attract more female customers through targeted campaigns.
+* Optimize Q2 Performance: Since June showed the highest sales, analyze factors contributing to this spike and replicate them across other months.
 
 
 
